@@ -1,6 +1,6 @@
 ### Notification of COPPA compliance and Parental Consent  
 
-You can use the following language to include with AUP/RUP or other contract or consent form that informs parents about third party web services the schools chooses to enroll the students in and how it relates to and conforms to “COPPA ("Children’s Online Privacy Protection Act and Rule")
+You can use the following language to include with AUP/RUP or other contract or consent form that informs parents about third party web services the schools chooses to enroll the students in and how it relates to and conforms to “COPPA ("Children’s Online Privacy Protection Act and Rule"). Thanks to Sarah Rolle, from The Elisabeth Morrow School, for putting this together. 
 
 -------
 
