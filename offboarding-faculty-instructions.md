@@ -62,5 +62,5 @@ If you would take specific email messages, chains, and conversations, you can us
 #### How to find the email later on  
 In your email search bar, type the label name. All emails attached to the label are now shown.
 
-#### How to save labeled emails in [google takeout](https://takeout.google.com/settings/takeout)  
+#### How to save labeled emails in [Google Takeout](https://takeout.google.com/settings/takeout)  
 In the email section, choose the specific label you created. All emails attached to this label will be downloaded.
